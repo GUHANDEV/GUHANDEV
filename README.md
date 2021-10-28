@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GUHANDEV
-- 👀 I’m interested in Web Development, Hybrid App development and Freelancing
+- 👀 I’m interested in Web Development, Hybrid App development
 - 🌱 I’m currently learning React Native
 - 📫 Connect me in Discord -- Guhan#9462
 
